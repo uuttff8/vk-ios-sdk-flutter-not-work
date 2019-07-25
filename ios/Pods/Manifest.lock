@@ -1,0 +1,27 @@
+PODS:
+  - Flutter (1.0.0)
+  - MaterialControls (1.2.2)
+  - VK-ios-sdk (1.4.6)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - MaterialControls
+  - VK-ios-sdk
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MaterialControls
+    - VK-ios-sdk
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 446b87ace8a3747a167979213b4aef59a0b5e5fa
+  MaterialControls: 1c6b29e78d3a13d8dd6a67ed31b6d26eb5de8f72
+  VK-ios-sdk: 7fd48bc5aaa6b96c3197c1987eb6593f2ea67331
+
+PODFILE CHECKSUM: ae2588f41689772ec47d372d7cb0a60cabd65a65
+
+COCOAPODS: 1.7.1

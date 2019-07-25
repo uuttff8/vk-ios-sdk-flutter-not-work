@@ -1,0 +1,7 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/uuttff8/flutter
+FLUTTER_APPLICATION_PATH=/Users/uuttff8/development/platform_view
+FLUTTER_TARGET=/Users/uuttff8/development/platform_view/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/uuttff8/flutter/bin/cache/artifacts/engine/ios
